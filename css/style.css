@@ -277,7 +277,7 @@ h1 {
 
 /* NEWS */
 #contents {
-  padding-top: 20px; }
+  adding-top: 20px; }
   @media (min-width: 550px) {
     #contents {
       padding-top: 35px;
@@ -300,7 +300,11 @@ h1 {
     #contents #main h2.company_title {
       margin-bottom: 0px; }
   #contents #main th {
-    padding-right: 20px; }
+    padding-right: 20px;
+    padding: 20px 0;
+    color: #626262;
+    font-size: 14px;
+    font-size: 1.4rem; }
   #contents #main td {
     padding: 20px 0;
     padding-right: 0px;
